@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'lib/theme/app_theme.dart';
-import 'lib/utils/responsive.dart';
+import 'theme/app_theme.dart';
+import 'utils/responsive.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
