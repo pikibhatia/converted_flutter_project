@@ -333,7 +333,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
             decoration: BoxDecoration(
               color: Theme.of(context).primaryColor,
             ),
-            child: const Column(
+            child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Icon(
